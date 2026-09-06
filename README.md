@@ -478,7 +478,8 @@ Use Razorpay test mode for development:
 | **Riya Ghoshi** | Frontend Developer |
 | **Lavay Garg** | Full Stack Developer & Cybersecurity Expert |
 | **Jatin** | Frontend Developer & UI/UX Designer |
-| **Aarchi** | Frontend Developer |
+| **Manish Jaiswal** | Frontend Developer |
+
 
 ---
 
